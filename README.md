@@ -11,5 +11,3 @@ Welcome to the Snake and Ladder game! This project recreates the classic childho
 <b>Customizable Board:</b> You can use the provided board or customize it as per your preference.<br/>
 <b>Dice Rolling:</b> Dice rolls are simulated using the rand() function.<br/>
 <b>Two Player Support:</b> Currently supports two players, with the ability to extend to more players.
-
-**<h4>*Just a fun fact:*</h4> Who the winner is doesn't depend on the players—it's all up to the compiler! XD**
