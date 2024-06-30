@@ -8,6 +8,7 @@ vector<int> v = {-1,38,-1,14,-1,-1,-1,-1,31,-1,-1,-1,-1,-1,-1,-1,7,-1,-1,-1,42,-
 
 void Play()
 {
+    srand(time(0));
     cout << "Snake and Ladders" << endl;
     cout << "Press 1 to Start the Game : " << endl;
     cout << "For Exit Press 0 :" << endl;
