@@ -1,5 +1,5 @@
-<h1> Another-Timepass.</h1>
-<h2> Snake &amp; Ladder Game in C++ </h2>
+<h1>Snake &amp; Ladder Game in C++ </h1>
+<h2>Another-Timepass. </h2>
 
 <h3>Overview</h3>
 Welcome to the Snake and Ladder game! This project recreates the classic childhood favorite game, Snake and Ladder, using C++. The game uses simple vectors to store the board and the rand() function to simulate dice rolls. The current implementation supports two players, but it can be easily extended to include more players.
